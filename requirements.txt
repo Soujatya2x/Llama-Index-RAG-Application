@@ -1,0 +1,10 @@
+# requirements.txt
+
+llama-index
+llama-index-embeddings-huggingface
+llama-index-llms-groq
+sentence-transformers
+transformers
+torch
+python-dotenv
+huggingface-hub
